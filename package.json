@@ -1,6 +1,7 @@
 {
   "name": "prevoir-proxy",
   "version": "1.0.0",
+  "description": "Proxy para API Prevoir",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
